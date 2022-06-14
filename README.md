@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 
 ## Overview:
-I received constructive feedback for my PlanMyTrip app from Jack and Beta Testers. They pointed out areas of improvement to make my app a commercial success.
+I received constructive feedback for my PlanMyTrip app from Jack and Beta Testers. They pointed out areas of improvement to make my app a commercial success such as:
 * Using input statements to filter data based on user preferences.
 * Identify potential travel destinations and nearby hotels based on user preferences.
 * Creating a travel route using Google Maps Directions API between the four citites as well as a marker layer map.
